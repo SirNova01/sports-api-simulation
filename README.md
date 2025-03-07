@@ -27,5 +27,5 @@ npm install
 ### 3. Run the Simulation Server
 
 ```sh
-node simulateGameData.ts
+npx ts-node simulateGameData.ts
 ```
